@@ -24,13 +24,31 @@
     margin: 33px;
 }
 
+
 p{
     font-size:13px;
     margin:33px;
 }
 
-a{
+.top-start{
     cursor: pointer;
     margin:33px;
     color: #666666
+}
+
+td{
+    padding: 1px 5px 7px;
+}
+
+th{
+    padding: 1px 1px 5px;
+   
+}
+
+.notice{
+    color: green;
+}
+
+input,textarea{
+    margin-bottom: 10px;
 }
